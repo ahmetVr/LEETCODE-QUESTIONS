@@ -20,12 +20,12 @@ public class TestMergeSortedArray {
 
         for(int i = 0; i < nums1.length; i++) {
             System.out.print(nums1[i] + " ");
-        }
+        } // 1-2-2-3-5-6
 
         System.out.println();
 
         for(int i = 0; i < nums3.length; i++) {
-            System.out.print(nums3[i] + " ");
-        }
+            System .out.print(nums3[i] + " ");
+        }// 1
     }
 }
